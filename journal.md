@@ -29,3 +29,4 @@ It is important to make sure to safe guard your infomation and idenity from the 
 An event that interests me is the usage of AI or atrifical intellegnce in the workplace. The usage of AI can potentially replace workers and jobs. AI is used by replacing and automating repetitive tasks or assisting with routine decisions. People are now in fear of losing their jobs to AI but the of usage of AI in workplace will only grow, so we workers must also grow and develope more skills.
 
 Since computer science has advance so far, it is now able to do the job and work of normal human workers. This is a growing problem in our economy but there is no real way to counteract this issue other then creating new and different jobs to manage or control the AI. Using the AI to benefit us rather than it harming us.
+# November 18, 2024
