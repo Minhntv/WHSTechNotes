@@ -38,3 +38,7 @@ Lawton, G. (2024, October 3). What is Gen AI? Generative AI explained. Search En
 The term "brain rot" doesn't mean much to me but it's meaning of “the supposed deterioration of a person’s mental or intellectual state, especially viewed as the result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging” is sort of funny to me. Me personally I do consume quite a lot of "brain rot" and it is really surprising that oxford used this term as their word of the year. I think digital media has a negative impact on people mental health and life but I just think it's honestly harlious and funny. The follow up words are just as bad as brain rot, and they are a form of brain rot is its own way. It is possible to balance meaningful engagement with technology while avoiding “brain rot” if you just avoid social media websites.
 # December 16, 2024
 Yes I am looking forward to winter break.
+# January 08, 2024
+Last semester I enjoyed the simple and chill atmosphere of the class.
+This semester I'm looking forward to learning more concepts of game design.
+I might be interested in persuing a certification in this class.
