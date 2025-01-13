@@ -42,3 +42,5 @@ Yes I am looking forward to winter break.
 Last semester I enjoyed the simple and chill atmosphere of the class.
 This semester I'm looking forward to learning more concepts of game design.
 I might be interested in persuing a certification in this class.
+# January 13, 2024
+With the tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles leaves many jobs obsolete but it definitly makes the industry cheaper and much more time efficent. Even if AI does take over the industry there will always be jobs that AI could never replace and AI should be used as a tool for engineers to enhance their work. I would prepare myself in a rapidly changing industry like this one by always being open to learning new things and always adapting to new concepts and learning the new technology like AI.
