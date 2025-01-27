@@ -48,3 +48,13 @@ With the tech industry is shifting towards prioritizing artificial intelligence 
 Government intervention can either majorly boost or mjorly tank a company's users and technologyical advancement. On the one hand the publicity will bring more money and users to the company better improving the technology but if the government intervention is harming the company then this would greatly harm the reputation and may causes it to lose its users. In my opinion companies like Tiktok should addreess security concerns while continuing to operate globally is to ensure their user's privacy without a doubt.
 
 If I was a developer at Tiktok working on a new feature to increase user privacy I would implament a policy that notifies all users that their data is being collected but it will not being sold or given out to anyone. What I can take away from this is that privacy is very important when dealing with technology and it should be one of our top proirities when creating a project.
+# January 27, 2025
+Name    |Car     |Mistake
+Jimmy   |  
+Kayla   |
+Bart	  |
+Harrison|
+
+
+
+
