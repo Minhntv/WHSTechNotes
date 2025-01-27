@@ -49,12 +49,12 @@ Government intervention can either majorly boost or mjorly tank a company's user
 
 If I was a developer at Tiktok working on a new feature to increase user privacy I would implament a policy that notifies all users that their data is being collected but it will not being sold or given out to anyone. What I can take away from this is that privacy is very important when dealing with technology and it should be one of our top proirities when creating a project.
 # January 27, 2025
-Name    |Car     |Mistake
+Name   |Car            |Mistake
 
-Jimmy   |  
+Jimmy   |Honda Civic    |Drilled Hole In Gas Tank
 
-Kayla   |
+Kayla   |GMC Sierra     |Fixed Wrong Problem	
 
-Bart	  |
+Bart	  |Toyota Corolla |Left Stains On Carpet	
 
-Harrison|
+Harrison|Subaru Forester|Left The Oil Cap Off
