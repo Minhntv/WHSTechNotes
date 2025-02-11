@@ -66,4 +66,4 @@ Another way technology improves safety is through artificial intelligence and ma
 |Square|Yellow|5|
 |Hexagon|Brown|6|
 |Triangle|Purple|4|
-|Octagon|Red|1|
+|Octagon|Red|3|
