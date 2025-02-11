@@ -55,7 +55,15 @@ If I was a developer at Tiktok working on a new feature to increase user privacy
 |Kayla|GMC Sierra|Fixed Wrong Problem|
 |Bart|Toyota Corolla|Left Stains On Carpet|
 |Harrison|Subaru Forester|Left The Oil Cap Off|
-# February 3, 2025
+# February 03, 2025
 Technology has made flying much safer by helping pilots and air traffic controllers avoid mistakes. Modern airplanes have systems like autopilot and collision avoidance that help pilots make better decisions. These systems can warn pilots about possible problems before they become serious. Air traffic control has also improved with better radar and digital communication, making it easier to track airplanes and prevent accidents.
 
 Another way technology improves safety is through artificial intelligence and maintenance tools. AI can study data from airplane sensors to find problems before they cause failures, allowing repairs to be done early. Drones and robots also help inspect airplanes, making maintenance faster and more accurate. With these improvements, along with better pilot training using virtual reality, flying has become safer for everyone.
+# Fedruary 11, 2025
+|Shape|Color|Count|
+|:----|:------|:-----------------------|
+|Circle|Green|7|	
+|Square|Yellow|5|
+|Hexagon|Brown|6|
+|Triangle|Purple|4|
+|Octagon|Red|1|
