@@ -74,3 +74,11 @@ Technology can help different generations understand each other better by using 
 
 
 At the same time, technology can help people stay respectful and professional when talking to others. Some apps let users choose between formal and casual language, so they can talk in a way that fits the situation. AI assistants and chatbots can also give tips on using the right words for different cultures. This helps make sure that people understand each other while still respecting traditions and manners, making conversations more meaningful.
+# March 03, 2025
+|Name|Power|Challenge|
+|:----|:------|:-----------------------|
+|Zara|Telekenesis|Secure Building	|	
+|Aether|Weather Manipulation|Prevent Assassination|
+|Thorne|Invisibility|Underwater Rescue|
+|Silver|Mind Control|Retrieve Stolen Goods|
+|Tangier|Shapeshifting|Extract Prisoner|
