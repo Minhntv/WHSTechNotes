@@ -90,11 +90,11 @@ Technology has made March Madness more exciting and interactive. AI predictions 
 
 Social media and streaming have changed how fans experience the tournament. Platforms like Twitter and TikTok provide real-time updates and highlights, making it easier to stay engaged. Streaming services let people watch games anywhere, but this also means fewer shared TV moments with family and friends. Still, these changes make March Madness more accessible and connected than ever before.
 # March 31, 2025
-How are you feeling right now—mentally, emotionally, and physically?
-Im good
-What’s been the most stressful part of school lately?
-Ap classes
-What are some things you do (or could do) to take care of yourself during stressful times?
-Take a break
-What’s one goal you have for the rest of the school year? How will you stay motivated to reach it?
-Keep my grades up
+How are you feeling right now—mentally, emotionally, and physically? 
+Im good. 
+What’s been the most stressful part of school lately? 
+Ap classes. 
+What are some things you do (or could do) to take care of yourself during stressful times? 
+Take a break. 
+What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? 
+Keep my grades up. 
