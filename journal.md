@@ -98,3 +98,8 @@ What are some things you do (or could do) to take care of yourself during stress
 Take a break. 
 What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? 
 Keep my grades up. 
+# April 07, 2025
+AI tools like ChatGPT or Khanmigo can really help with studying for big tests like the STAAR. They can explain hard topics in a simple way, quiz me on what I’ve learned, and help me make a study plan. Sometimes I don’t know what to focus on, but AI can tell me what I need to practice more. A school in Austin used AI tutors and their scores got way better, so I think AI could help me too.
+
+
+For me, the best part of an AI tutor would be getting help right away when I’m stuck. It’s annoying when I don’t understand something and no one is there to help. AI is always ready, so I could keep studying without getting stuck. I think I would use it, especially if it makes studying easier and helps me get a better score.
