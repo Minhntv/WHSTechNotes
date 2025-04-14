@@ -104,3 +104,7 @@ AI tools like ChatGPT or Khanmigo can really help with studying for big tests li
 
 For me, the best part of an AI tutor would be getting help right away when I’m stuck. It’s annoying when I don’t understand something and no one is there to help. AI is always ready, so I could keep studying without getting stuck. I think I would use it, especially if it makes studying easier and helps me get a better score.
 # April 14, 2025
+I think the cell phone and social media bans in Florida schools can be helpful in some ways. Without phones, students might pay more attention in class and be less distracted. It could also help reduce cyberbullying during school hours. But at the same time, phones can be important for safety and quick communication with parents in emergencies.
+
+
+If these rules were put in place at my school, I would understand the reason behind them, but it would be hard to get used to. I use my phone to check the time, talk to family, or even help with schoolwork sometimes. I think a better idea might be to limit phone use during class, but still allow it during lunch or in between classes.
