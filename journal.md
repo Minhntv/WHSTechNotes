@@ -108,3 +108,14 @@ I think the cell phone and social media bans in Florida schools can be helpful i
 
 
 If these rules were put in place at my school, I would understand the reason behind them, but it would be hard to get used to. I use my phone to check the time, talk to family, or even help with schoolwork sometimes. I think a better idea might be to limit phone use during class, but still allow it during lunch or in between classes.
+# April 22, 2025
+Dear Mr Martilla,
+
+I hope this message finds you well. I wanted to take a moment to express my sincere appreciation for the knowledge, support, and encouragement you’ve provided throughout physics and my sophmore year of highschool.
+
+Your dedication to teaching and your passion for the subject have made a lasting impact on my learning experience. I’m especially grateful for the time you gave me special attention with an exam that I was struggling with and everytime you allowed me to relax when I was having a hard day. I appricate how genuine you are and I thank you for being that way.
+
+Thank you again for your commitment to your students’ success. You’ve made a real difference in my academic journey, and I’m truly grateful.
+
+Warm regards,
+Minh Vu
