@@ -125,3 +125,5 @@ Minh Vu
 |Sally|Chocolate|Graduation|$35.00|	
 |Micheal|Vanilla|Farewell Party|$37.00|
 |Emma|Carrot|Birthday|$39.00|
+# May 05, 2025
+I believe that in a fight between one gorilla vs one hundred men, the one hundred men would win. One gorilla only has so much stamina and energy and there are one hundred people attacking it nonstop. Eventually the gorilla would tire and be defeated by the men therefore the men would win the battke.
