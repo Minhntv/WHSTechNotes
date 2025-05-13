@@ -127,3 +127,8 @@ Minh Vu
 |Emma|Carrot|Birthday|$39.00|
 # May 05, 2025
 I believe that in a fight between one gorilla vs one hundred men, the one hundred men would win. One gorilla only has so much stamina and energy and there are one hundred people attacking it nonstop. Eventually the gorilla would tire and be defeated by the men therefore the men would win the battle.
+# May 13, 2025
+The “Chromebook Challenge” is not ethical because it puts people and property in danger. Sticking objects like pencils into USB ports can break the device, start a fire, or hurt someone. As students and future tech users, we should use school technology safely and responsibly. Damaging devices wastes school money and takes away tools other students need for learning.
+
+
+If someone says it’s “just a joke,” we need to explain that actions have real consequences. Breaking a Chromebook can lead to punishment or even getting hurt. In the real world, tech professionals are trusted to use devices carefully. Being responsible now helps us build good habits for the future. Safety and respect should always come first.
