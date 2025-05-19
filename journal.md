@@ -132,3 +132,5 @@ The “Chromebook Challenge” is not ethical because it puts people and propert
 
 
 If someone says it’s “just a joke,” we need to explain that actions have real consequences. Breaking a Chromebook can lead to punishment or even getting hurt. In the real world, tech professionals are trusted to use devices carefully. Being responsible now helps us build good habits for the future. Safety and respect should always come first.
+# May 19, 2025
+I am ready for summer!
